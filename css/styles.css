@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(#1565C0, #B92B27);
+}
+
+.header_css{
+    background-color: #3A3030;
+    width: 100%;
+    height: 80px;
+    opacity: 0.5;
+}
+
+.header_css_Content{
+    opacity: 1 !important;
+}
