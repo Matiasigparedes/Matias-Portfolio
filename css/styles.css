@@ -15,25 +15,120 @@ body{
 
 @media only screen and (max-width: 600px) 
 {
+    .titleStyles{
+        margin-top: 35px !important;
+    }
+
+    .picStyles{
+        margin-top: 25px !important;
+    }
     .imgStyles{
         width: 330px !important;
         height: 274px !important;
     }
-
+    
     .boxStyle{
         width: 92% !important;
-        margin-top: 25px !important;
-    }
-
-    .picStyles{
         margin-top: 25px !important;
     }
 
     .footerStyles{
         margin-top: 20px !important;
     }
+}
 
+@media only screen and (min-width: 600px) 
+{
     .titleStyles{
         margin-top: 35px !important;
+    }
+
+    .picStyles{
+        margin-top: 25px !important;
+    }
+    .imgStyles{
+        width: 330px !important;
+        height: 274px !important;
+    }
+    
+    .boxStyle{
+        width: 92% !important;
+        margin-top: 25px !important;
+    }
+
+    .footerStyles{
+        margin-top: 20px !important;
+    }
+}
+
+@media only screen and (min-width: 768px) 
+{
+    .titleStyles{
+        margin-top: 35px !important;
+    }
+
+    .picStyles{
+        margin-top: 25px !important;
+    }
+    .imgStyles{
+        width: 330px !important;
+        height: 274px !important;
+    }
+    
+    .boxStyle{
+        width: 85% !important;
+        margin-top: 25px !important;
+    }
+
+    .footerStyles{
+        margin-top: 20px !important;
+    }
+}
+
+@media only screen and (min-width: 992px) 
+{
+    .titleStyles{
+        margin-top: 35px !important;
+    }
+
+    .picStyles{
+        margin-top: 25px !important;
+    }
+    .imgStyles{
+        width: 330px !important;
+        height: 274px !important;
+    }
+    
+    .boxStyle{
+        width: 70% !important;
+        margin-top: 25px !important;
+    }
+
+    .footerStyles{
+        margin-top: 20px !important;
+    }
+}
+
+@media only screen and (min-width: 1200px) 
+{
+    .titleStyles{
+        margin-top: 35px !important;
+    }
+
+    .picStyles{
+        margin-top: 25px !important;
+    }
+    .imgStyles{
+        width: 330px !important;
+        height: 274px !important;
+    }
+    
+    .boxStyle{
+        width: 60% !important;
+        margin-top: 25px !important;
+    }
+
+    .footerStyles{
+        margin-top: 20px !important;
     }
 }
