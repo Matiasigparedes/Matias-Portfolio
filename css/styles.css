@@ -12,3 +12,11 @@ body{
 .header_css_Content{
     opacity: 1 !important;
 }
+
+@media only screen and (max-width: 600px) 
+{
+    .imgStyles{
+        width: 220px !important;
+        height: 164px !important;
+    }
+}
