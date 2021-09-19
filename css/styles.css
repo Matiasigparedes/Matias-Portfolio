@@ -16,7 +16,24 @@ body{
 @media only screen and (max-width: 600px) 
 {
     .imgStyles{
-        width: 280px !important;
-        height: 224px !important;
+        width: 330px !important;
+        height: 274px !important;
+    }
+
+    .boxStyle{
+        width: 92% !important;
+        margin-top: 25px !important;
+    }
+
+    .picStyles{
+        margin-top: 25px !important;
+    }
+
+    .footerStyles{
+        margin-top: 20px !important;
+    }
+
+    .titleStyles{
+        margin-top: 35px !important;
     }
 }
